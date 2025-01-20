@@ -1,14 +1,14 @@
 # ShaguPlates
 
-<a href="preview/rounded.jpg"><img src="preview/rounded.jpg" float="right" align="right" width="320"></a>
+<a href="ShaguPlates/preview/rounded.jpg"><img src="ShaguPlates/preview/rounded.jpg" float="right" align="right" width="320"></a>
 
 A World of Warcraft: Vanilla and Burning Crusade addon, that is compatible to the original game versions 1.12.1 and 2.4.3 from back in the days. This addon modifies and extends the default nameplates by several features.
 
 Initially, this project started as a fork of CustomNameplates that became an entire rewrite and was then rewritten from scratch several times. At one point, the ShaguPlates got merged into pfUI and received over time many updates there. Nowadays, this addon is a *mostly* auto generated stand-alone version of the pfUI-nameplates to allow people without pfUI to still use its nameplates.
 
-<a href="preview/left.jpg"><img src="preview/left.jpg" width="23%"></a>
-<a href="preview/center.jpg"><img src="preview/center.jpg" width="46%"></a>
-<a href="preview/right.jpg"><img src="preview/right.jpg" width="23%"></a>
+<a href="ShaguPlates/preview/left.jpg"><img src="ShaguPlates/preview/left.jpg" width="23%"></a>
+<a href="ShaguPlates/preview/center.jpg"><img src="ShaguPlates/preview/center.jpg" width="46%"></a>
+<a href="ShaguPlates/preview/right.jpg"><img src="ShaguPlates/preview/right.jpg" width="23%"></a>
 
 **Notice:**
 *DO NOT use this addon in combination with [pfUI](https://github.com/shagu/pfUI). This or a superior version of it, is already included there. Also please do not send any pull requests to files that are part of the autogenerating process. Instead please prepare and send your update to the [pfUI](https://github.com/shagu/pfUI) project.*
